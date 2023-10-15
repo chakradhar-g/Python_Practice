@@ -71,11 +71,15 @@ Python program to count positive and negative numbers in a list
 Remove multiple elements from a list in Python
 Python | Remove empty tuples from a list
 Python | Program to print duplicates from a list of integers
+https://www.geeksforgeeks.org/range-to-a-list-in-python/
+
+
 
 [Reversing a List in Python](https://www.geeksforgeeks.org/python-reversing-list/ "Reversing a List in Python")
 [Find average of a list in python](https://www.geeksforgeeks.org/find-average-list-python/ "Find average of a list in python")
 
 https://www.geeksforgeeks.org/tag/python-list-programs/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDEzMzU3MSwtMTM1ODYxMjYxOF19
+eyJoaXN0b3J5IjpbLTE4NDExNjA4NzMsLTEzNTg2MTI2MThdfQ
+==
 -->
