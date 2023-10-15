@@ -18,9 +18,16 @@ Write a Python program to print a specified list after removing the 0th, 4th and
 ([3, 5, 7, 13]) -> True  
 ([1, 5, 3]) -> False
 Write a Python program to find the index of an item in a specified list.
+Write a Python program to append a list to the second list.
+Write a Python program to find the second smallest number in a list.
+Write a Python program to find the second largest number in a list.
+Write a Python program to get unique values from a list.
+Write a Python program to get the frequency of elements in a list.
+Write a Python program to count the number of elements in a list within a specified range.
+Write a Python program to find common items in two lists.
 
 
 Ref: https://www.w3resource.com/python-exercises/list/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTMwNDE3MzJdfQ==
+eyJoaXN0b3J5IjpbLTE4ODg3MTI1MDBdfQ==
 -->
