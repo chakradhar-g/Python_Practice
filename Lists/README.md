@@ -1,18 +1,20 @@
 **Python lists programming questions:**
 
- - [ ] Write a Python program to sum all the items in a list. Write a
-       Python program to multiply all the items in a list.
+ - [ ] Write a Python program to sum all the items in a list.
+ - [ ] Write a Python program to multiply all the items in a list.
+ - [ ] Write a Python program to get the largest number from a list.
+ - [ ] Write a Python program to get the smallest number from a list.
+ - [ ] Write a Python program to remove duplicates from a list.
+ - [ ] Write a Python program to check if a list is empty or not.
+ - [ ] Write a Python program to clone or copy a list.
+ - [ ] Write a Python function that takes two lists and returns True if
+       they have at least one common member.
+ - [ ] Write a Python program to print a specified list after removing
+       the 0th, 4th and 5th elements.
 
-Write a Python program to get the largest number from a list.
-Write a Python program to get the smallest number from a list.
-Write a Python program to remove duplicates from a list.
-Write a Python program to check if a list is empty or not.
-Write a Python program to clone or copy a list.
-Write a Python function that takes two lists and returns True if they have at least one common member.
-Write a Python program to print a specified list after removing the 0th, 4th and 5th elements.  
+Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']  
+Expected Output : ['Green', 'White', 'Black']
 
-    Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']  
-    Expected Output : ['Green', 'White', 'Black']
  Write a Python program to print the numbers of a specified list after removing even numbers from it.
  Write a Python program to check if each number is prime in a given list of numbers. Return True if all numbers are prime otherwise False.  
 
@@ -111,6 +113,6 @@ https://www.geeksforgeeks.org/range-to-a-list-in-python
 Ref:
 https://www.geeksforgeeks.org/tag/python-list-programs/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTc5NTY0NDIsLTE4NDExNjA4NzMsLT
-EzNTg2MTI2MThdfQ==
+eyJoaXN0b3J5IjpbMTEyNDA0MTgwLC0xODQxMTYwODczLC0xMz
+U4NjEyNjE4XX0=
 -->
