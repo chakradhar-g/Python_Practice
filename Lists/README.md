@@ -60,26 +60,27 @@
     Index positions of the minimum value of the said list:  
     3, 11
 
- 11. Ref: https://www.w3resource.com/python-exercises/list/
- 12. Python program to interchange first and last elements in a list
 
-Python program to swap two elements in a list
-Python – Swap elements in String list
-Python | Ways to find length of list
-Maximum of two numbers in Python
-Minimum of two numbers in Python
-Python | Ways to check if element exists in list
-Different ways to clear a list in Python
-Python | Reversing a List
-Python | Cloning or Copying a list
-Python | Count occurrences of an element in a list
-Python Program to find sum and average of List in Python
-Python | Sum of number digits in List
-Python | Multiply all numbers in the list
-Python program to find smallest number in a list
-Python program to find largest number in a list
-Python program to find second largest number in a list
-Python program to print even numbers in a list
+Ref: https://www.w3resource.com/python-exercises/list/
+ 1. Python program to interchange first and last elements in a list
+ 2. Python program to swap two elements in a list
+ 3. Python – Swap elements in String list
+ 4. Python | Ways to find length of list
+ 5. Maximum of two numbers in Python
+ 6. Minimum of two numbers in Python
+ 7. Python | Ways to check if element exists in list
+ 8. Different ways to clear a list in Python
+ 9. Python | Reversing a List
+ 10. Python | Cloning or Copying a list
+ 11. Python | Count occurrences of an element in a list
+ 12. Python Program to find sum and average of List in Python
+ 13. Python | Sum of number digits in List
+ 14. Python | Multiply all numbers in the list
+ 15. Python program to find smallest number in a list
+ 16. Python program to find largest number in a list
+ 17. Python program to find second largest number in a list
+ 18. Python program to print even numbers in a list
+
 Python program to print odd numbers in a List
 Python program to print all even numbers in a range
 Python program to print all odd numbers in a range
@@ -126,6 +127,6 @@ Ref:
 https://www.geeksforgeeks.org/tag/python-list-programs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5MTA2MjExLC0xODQxMTYwODczLC0xMz
-U4NjEyNjE4XX0=
+eyJoaXN0b3J5IjpbMTMyODIzOTAwMiwtMTg0MTE2MDg3MywtMT
+M1ODYxMjYxOF19
 -->
