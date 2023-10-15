@@ -99,33 +99,33 @@ Ref: https://www.w3resource.com/python-exercises/list/
 35. Python | Intersection of two lists
 36. Python | Check if a given object is list or not
 37. Python | Find most frequent element in a list
-38Python | Remove None values from list
-Python program to print even numbers in a list
-Python | Get last N elements from given list
-Python | Program to print duplicates from a list of integers
-Remove all the occurrences of an element from a list in Python
-Python program to count Even and Odd numbers in a List
-Python - Check if a list is empty or not
-Python | Maximum and minimum element's position in a list
-Python program to find N largest elements from a list
-Python | Check if all the values in a list that are greater than a given value
-Python | Check if all elements in a List are same
-Python | Check if list is sorted or not
-Python | Number of values greater than K in list
-Python program to print positive numbers in a list
-Python | Separate odd and even index elements
-Python | Ways to rotate a list
-Python | Sum of number digits in List
-Python | Move element to end of the list
-Python | Adding K to each element in a list of integers
-https://www.geeksforgeeks.org/range-to-a-list-in-python
-[Reversing a List in Python](https://www.geeksforgeeks.org/python-reversing-list/ "Reversing a List in Python")
-[Find average of a list in python](https://www.geeksforgeeks.org/find-average-list-python/ "Find average of a list in python")
+38. Python | Remove None values from list
+39. Python program to print even numbers in a list
+40. Python | Get last N elements from given list
+41. Python | Program to print duplicates from a list of integers
+42. Remove all the occurrences of an element from a list in Python
+43. Python program to count Even and Odd numbers in a List
+44. Python - Check if a list is empty or not
+45. Python | Maximum and minimum element's position in a list
+46. Python program to find N largest elements from a list
+47. Python | Check if all the values in a list that are greater than a given value
+48. Python | Check if all elements in a List are same
+49. Python | Check if list is sorted or not
+50. Python | Number of values greater than K in list
+51. Python program to print positive numbers in a list
+52. Python | Separate odd and even index elements
+53. Python | Ways to rotate a list
+54. Python | Sum of number digits in List
+55. Python | Move element to end of the list
+56. Python | Adding K to each element in a list of integers
+57. https://www.geeksforgeeks.org/range-to-a-list-in-python
+58. [Reversing a List in Python](https://www.geeksforgeeks.org/python-reversing-list/ "Reversing a List in Python")
+59. [Find average of a list in python](https://www.geeksforgeeks.org/find-average-list-python/ "Find average of a list in python")
 
 Ref:
 https://www.geeksforgeeks.org/tag/python-list-programs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM2MjcwOTU0LC0xODQxMTYwODczLC0xMz
-U4NjEyNjE4XX0=
+eyJoaXN0b3J5IjpbLTY2OTQ2Nzc2OCwtMTg0MTE2MDg3MywtMT
+M1ODYxMjYxOF19
 -->
