@@ -30,8 +30,16 @@ Original list:
 [1, 1, 2, 3, 4, 4, 5, 1]  
 After inserting an element at kth position in the said list:  
 [1, 1, 12, 2, 3, 4, 4, 5, 1]
+Write a Python program to find all index positions of the maximum and minimum values in a given list of numbers.  
+Original list:  
+[12, 33, 23, 10, 67, 89, 45, 667, 23, 12, 11, 10, 54]  
+Index positions of the maximum value of the said list:  
+7  
+Index positions of the minimum value of the said list:  
+3, 11
+
 
 Ref: https://www.w3resource.com/python-exercises/list/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkwMzA4NjJdfQ==
+eyJoaXN0b3J5IjpbLTEzNTg2MTI2MThdfQ==
 -->
