@@ -11,21 +11,30 @@
        they have at least one common member.
  - [ ] Write a Python program to print a specified list after removing
        the 0th, 4th and 5th elements.
+    Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']  
+    		Expected Output : ['Green', 'White', 'Black']
+ - [ ] Write a Python program to print the numbers of a specified list
+       after removing even numbers from it.
 
-Sample List : ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']  
-Expected Output : ['Green', 'White', 'Black']
+ 
 
- Write a Python program to print the numbers of a specified list after removing even numbers from it.
- Write a Python program to check if each number is prime in a given list of numbers. Return True if all numbers are prime otherwise False.  
+ - [ ] Write a Python program to check if each number is prime in a
+       given list of numbers. Return True if all numbers are prime
+       otherwise False.
+
+ 
 
     **Sample Data:**  
     ([0, 3, 4, 7, 9]) -> False  
     ([3, 5, 7, 13]) -> True  
     ([1, 5, 3]) -> False
 
-Write a Python program to find the index of an item in a specified list.
-Write a Python program to append a list to the second list.
-Write a Python program to find the second smallest number in a list.
+ - [ ] Write a Python program to find the index of an item in a
+       specified list.
+ - [ ] Write a Python program to append a list to the second list.
+ - [ ] Write a Python program to find the second smallest number in a
+       list.
+
 Write a Python program to find the second largest number in a list.
 Write a Python program to get unique values from a list.
 Write a Python program to get the frequency of elements in a list.
@@ -113,6 +122,6 @@ https://www.geeksforgeeks.org/range-to-a-list-in-python
 Ref:
 https://www.geeksforgeeks.org/tag/python-list-programs/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNDA0MTgwLC0xODQxMTYwODczLC0xMz
-U4NjEyNjE4XX0=
+eyJoaXN0b3J5IjpbLTE1OTY1MTQ0NTEsLTE4NDExNjA4NzMsLT
+EzNTg2MTI2MThdfQ==
 -->
