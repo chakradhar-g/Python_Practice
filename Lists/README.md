@@ -25,9 +25,13 @@ Write a Python program to get unique values from a list.
 Write a Python program to get the frequency of elements in a list.
 Write a Python program to count the number of elements in a list within a specified range.
 Write a Python program to find common items in two lists.
-
+Write a Python program to insert an element at a specified position into a given list.  
+Original list:  
+[1, 1, 2, 3, 4, 4, 5, 1]  
+After inserting an element at kth position in the said list:  
+[1, 1, 12, 2, 3, 4, 4, 5, 1]
 
 Ref: https://www.w3resource.com/python-exercises/list/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg3MTI1MDBdfQ==
+eyJoaXN0b3J5IjpbLTIwMTkwMzA4NjJdfQ==
 -->
