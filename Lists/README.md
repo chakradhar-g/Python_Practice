@@ -80,27 +80,26 @@ Ref: https://www.w3resource.com/python-exercises/list/
  16. Python program to find largest number in a list
  17. Python program to find second largest number in a list
  18. Python program to print even numbers in a list
-
-Python program to print odd numbers in a List
-Python program to print all even numbers in a range
-Python program to print all odd numbers in a range
-Python program to count Even and Odd numbers in a List
-Python program to print positive numbers in a list
-Python program to print negative numbers in a list
-Python program to print all positive numbers in a range
-Python program to print all negative numbers in a range
-Python program to count positive and negative numbers in a list
-Remove multiple elements from a list in Python
-Python | Remove empty tuples from a list
-Python | Program to print duplicates from a list of integers
-Get first and last elements of a list in Python
-Python - Remove first element of list
-Python Program to Swap Two Elements in a List
-Python | Count occurrences of an element in a list
-Python | Intersection of two lists
-Python | Check if a given object is list or not
-Python | Find most frequent element in a list
-Python | Remove None values from list
+ 19. Python program to print odd numbers in a List
+ 20. Python program to print all even numbers in a range
+ 21. Python program to print all odd numbers in a range
+ 22. Python program to count Even and Odd numbers in a List
+ 23. Python program to print positive numbers in a list
+ 24. Python program to print negative numbers in a list
+ 25. Python program to print all positive numbers in a range
+ 26. Python program to print all negative numbers in a range
+ 27. Python program to count positive and negative numbers in a list
+ 28. Remove multiple elements from a list in Python
+ 29. Python | Remove empty tuples from a list
+ 30. Python | Program to print duplicates from a list of integers
+ 31. Get first and last elements of a list in Python
+ 32. Python - Remove first element of list
+ 33. Python Program to Swap Two Elements in a List
+ 34. Python | Count occurrences of an element in a list
+35. Python | Intersection of two lists
+36. Python | Check if a given object is list or not
+37. Python | Find most frequent element in a list
+38Python | Remove None values from list
 Python program to print even numbers in a list
 Python | Get last N elements from given list
 Python | Program to print duplicates from a list of integers
@@ -127,6 +126,6 @@ Ref:
 https://www.geeksforgeeks.org/tag/python-list-programs/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODIzOTAwMiwtMTg0MTE2MDg3MywtMT
-M1ODYxMjYxOF19
+eyJoaXN0b3J5IjpbOTM2MjcwOTU0LC0xODQxMTYwODczLC0xMz
+U4NjEyNjE4XX0=
 -->
