@@ -40,6 +40,12 @@ Index positions of the minimum value of the said list:
 
 
 Ref: https://www.w3resource.com/python-exercises/list/
+
+[Reversing a List in Python](https://www.geeksforgeeks.org/python-reversing-list/ "Reversing a List in Python")
+[Find average of a list in python](https://www.geeksforgeeks.org/find-average-list-python/ "Find average of a list in python")
+
+https://www.geeksforgeeks.org/tag/python-list-programs/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTg2MTI2MThdfQ==
+eyJoaXN0b3J5IjpbLTE3NzQ5Mjc2NjEsLTEzNTg2MTI2MThdfQ
+==
 -->
