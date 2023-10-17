@@ -125,7 +125,224 @@ Ref: https://www.w3resource.com/python-exercises/list/
 Ref:
 https://www.geeksforgeeks.org/tag/python-list-programs/
 
+
+
+**Nested lists or list of lists:**
+
+{"name": "default_l4_clientside1",
+    "destinations": ["10.10.20.222"],
+    "ports": ["80"],
+    "l3Networks": ["default_l3_network1"]
+}
+
+
+Write a Python program to replace the last element in a list with another list.
+
+    Sample data : [1, 3, 5, 7, 9, 10], [2, 4, 6, 8]
+    Expected Output: [1, 3, 5, 7, 9, 2, 4, 6, 8]
+
+Write a Python program to find the list in a list of lists whose sum of elements is the highest.
+
+    Sample lists: [1,2,3], [4,5,6], [10,11,12], [7,8,9]
+    Expected Output: [10, 11, 12]
+
+Write a Python program to extend a list without appending.
+
+    Sample data: [10, 20, 30]
+    [40, 50, 60]
+    Expected output : [40, 50, 60, 10, 20, 30]
+
+Write a Python program to remove duplicates from a list of lists.
+
+    Sample list : [[10, 20], [40], [30, 56, 25], [10, 20], [33], [40]]
+    New List : [[10, 20], [30, 56, 25], [33], [40]]
+
+Write a Python program to find items starting with a specific character from a list.
+
+    Expected Output:
+    Original list:
+    ['abcd', 'abc', 'bcd', 'bkie', 'cder', 'cdsw', 'sdfsd', 'dagfa', 'acjd']
+    Items start with a from the said list:
+    ['abcd', 'abc', 'acjd']
+    Items start with d from the said list:
+    ['dagfa']
+    Items start with w from the said list:
+    []
+
+Write a Python program to flatten a given nested list structure.
+
+    Original list: [0, 10, [20, 30], 40, 50, [60, 70, 80], [90, 100, 110, 120]]
+    Flatten list:
+    [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120]
+
+Write a Python program to remove consecutive (following each other continuously) duplicates (elements) from a given list.
+
+    Original list:
+    [0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4]
+    After removing consecutive duplicates:
+    [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 4]
+
+Write a Python program to pack consecutive duplicates of a given list of elements into sublists.
+
+    Original list:
+    [0, 0, 1, 2, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 4, 4]
+    After packing consecutive duplicates of the said list elements into sublists:
+    [[0, 0], [1], [2], [3], [4, 4], [5], [6, 6, 6], [7], [8], [9], [4, 4]]
+
+Write a Python program to split a given list into two parts where the length of the first part of the list is given.
+
+    Original list:
+    [1, 1, 2, 3, 4, 4, 5, 1]
+    Length of the first part of the list: 3
+    Splited the said list into two parts:
+    ([1, 1, 2], [3, 4, 4, 5, 1])
+
+Write a Python program to remove the K'th element from a given list, and print the updated list.
+
+    Original list:
+    [1, 1, 2, 3, 4, 4, 5, 1]
+    After removing an element at the kth position of the said list:
+    [1, 1, 3, 4, 4, 5, 1]
+
+Python | Uncommon elements in Lists of List
+
+Write a Python program to create a 3X3 grid with numbers.
+3X3 grid with numbers:
+
+    [[1, 2, 3], [1, 2, 3], [1, 2, 3]]
+    Write a Python program to Zip two given lists of lists.
+    Original lists:
+    [[1, 3], [5, 7], [9, 11]]
+    [[2, 4], [6, 8], [10, 12, 14]]
+    Zipped list:
+    [[1, 3, 2, 4], [5, 7, 6, 8], [9, 11, 10, 12, 14]]
+
+Write a Python program to count the number of lists in a given list of lists.
+
+    Original list:
+    [[1, 3], [5, 7], [9, 11], [13, 15, 17]]
+    Number of lists in said list of lists:
+    4
+    Original list:
+    [[2, 4], [[6, 8], [4, 5, 8]], [10, 12, 14]]
+    Number of lists in said list of lists:
+    3
+
+Write a Python program to find a list with maximum and minimum lengths.
+
+    Original list:
+    [[0], [1, 3], [5, 7], [9, 11], [13, 15, 17]]
+    List with maximum length of lists:
+    (3, [13, 15, 17])
+    List with minimum length of lists:
+    (1, [0])
+    Original list:
+    [[0], [1, 3], [5, 7], [9, 11], [3, 5, 7]]
+    List with maximum length of lists:
+    (3, [3, 5, 7])
+    List with minimum length of lists:
+    (1, [0])
+    Original list:
+    [[12], [1, 3], [1, 34, 5, 7], [9, 11], [3, 5, 7]]
+    List with maximum length of lists:
+    (4, [1, 34, 5, 7])
+    List with minimum length of lists:
+    (1, [12])
+
+Write a Python program to count the number of sublists that contain a particular element.
+
+    Original list:
+    [[1, 3], [5, 7], [1, 11], [1, 15, 7]]
+    Count 1 in the said list:
+    3
+    Count 7 in the said list:
+    2
+    Original list:
+    [['A', 'B'], ['A', 'C'], ['A', 'D', 'E'], ['B', 'C', 'D']]
+    Count 'A' in the said list:
+    3
+    Count 'E' in the said list:
+    1
+
+Write a Python program to sort each sublist of strings in a given list of lists.
+
+    Original list:
+    [[2], [0], [1, 3], [0, 7], [9, 11], [13, 15, 17]]
+    Sort the list of lists by length and value:
+    [[0], [2], [0, 7], [1, 3], [9, 11], [13, 15, 17]]
+
+Write a Python program to sort a given matrix in ascending order according to the sum of its rows.
+
+   
+
+     Original Matrix:
+        [[1, 2, 3], [2, 4, 5], [1, 1, 1]]
+    
+    Sort the said matrix in ascending order according to the sum of its rows
+    [[1, 1, 1], [1, 2, 3], [2, 4, 5]]
+    Original Matrix:
+    [[1, 2, 3], [-2, 4, -5], [1, -1, 1]]
+    Sort the said matrix in ascending order according to the sum of its rows
+    [[-2, 4, -5], [1, -1, 1], [1, 2, 3]]
+
+Write a Python program to remove a specified column from a given nested list.
+
+    Original Nested list:
+    [[1, 2, 3], [2, 4, 5], [1, 1, 1]]
+    After removing 1st column:
+    [[2, 3], [4, 5], [1, 1]]
+    Original Nested list:
+    [[1, 2, 3], [-2, 4, -5], [1, -1, 1]]
+    After removing 3rd column:
+    [[1, 2], [-2, 4], [1, -1]]
+
+Write a Python program to extract a specified column from a given nested list.
+
+    Original Nested list:
+    [[1, 2, 3], [2, 4, 5], [1, 1, 1]]
+    Extract 1st column:
+    [1, 2, 1]
+    Original Nested list:
+    [[1, 2, 3], [-2, 4, -5], [1, -1, 1]]
+    Extract 3rd column:
+    [3, -5, 1]
+
+Write a Python program to rotate a given list by a specified number of items in the right or left direction.
+
+    original List:
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    Rotate the said list in left direction by 4:
+    [4, 5, 6, 7, 8, 9, 10, 1, 2, 3, 4]
+    Rotate the said list in left direction by 2:
+    [3, 4, 5, 6, 7, 8, 9, 10, 1, 2]
+    Rotate the said list in Right direction by 4:
+    [8, 9, 10, 1, 2, 3, 4, 5, 6]
+    Rotate the said list in Right direction by 2:
+    [9, 10, 1, 2, 3, 4, 5, 6, 7, 8]
+
+Write a Python program to find nested list elements that are present in another list.
+
+    Original lists:
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    [[12, 18, 23, 25, 45], [7, 11, 19, 24, 28], [1, 5, 8, 18, 15, 16]]
+    Intersection of said nested lists:
+    [[12], [7, 11], [1, 5, 8]]
+
+Write a Python program to find common elements in a nested list.
+
+    Original lists:
+    [[12, 18, 23, 25, 45], [7, 12, 18, 24, 28], [1, 5, 8, 12, 15, 16, 18]]
+    Common element(s) in nested lists:
+    [18, 12]
+
+Write a Python program to reverse each list in a given list of lists.
+
+    Original list of lists:
+    [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]]
+    Reverse each list in the said list of lists:
+    [[4, 3, 2, 1], [8, 7, 6, 5], [12, 11, 10, 9], [16, 15, 14, 13]]
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2OTQ2Nzc2OCwtMTg0MTE2MDg3MywtMT
-M1ODYxMjYxOF19
+eyJoaXN0b3J5IjpbOTQ2MjI5NDM0LC02Njk0Njc3NjgsLTE4ND
+ExNjA4NzMsLTEzNTg2MTI2MThdfQ==
 -->
