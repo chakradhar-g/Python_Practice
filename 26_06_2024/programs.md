@@ -19,3 +19,26 @@ https://www.geeksforgeeks.org/problems/print-the-pattern-set-1/1?page=1&difficul
 https://www.geeksforgeeks.org/problems/palindromic-array-1587115620/1?page=1&difficulty=School&sortBy=submissions
 
 https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1?page=1&difficulty=School&sortBy=submissions
+
+
+**27/06/2024:**
+
+https://www.geeksforgeeks.org/problems/java-if-else-decision-making0924/1?page=1&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/gcd-of-two-numbers3459/1?page=1&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/odd-or-even3618/1?page=1&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/swap-kth-elements5500/1?page=1&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/display-longest-name0853/1?page=1&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/java-convert-string-to-lowercase2313/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/remove-spaces0128/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/perfect-arrays4645/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1?page=2&difficulty=School&sortBy=submissions
