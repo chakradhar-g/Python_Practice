@@ -42,3 +42,24 @@ https://www.geeksforgeeks.org/problems/remove-spaces0128/1?page=2&difficulty=Sch
 https://www.geeksforgeeks.org/problems/perfect-arrays4645/1?page=2&difficulty=School&sortBy=submissions
 
 https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1?page=2&difficulty=School&sortBy=submissions
+
+**29/06/2024**
+https://www.geeksforgeeks.org/problems/addition-of-two-numbers0812/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/c-if-else-decision-making4138/1?page=2&difficulty=School&sortBy=submissions
+
+https://geeksforgeeks.org/problems/sum-of-digit-is-pallindrome-or-not2751/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/java-reverse-a-string0416/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/series-ap5310/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/at-least-two-greater-elements4625/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/c-input-output2432/1?page=2&difficulty=School&sortBy=submissions
+
+https://www.geeksforgeeks.org/problems/print-table0303/1?page=2&difficulty=School&sortBy=submissions
